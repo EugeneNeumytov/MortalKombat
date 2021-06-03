@@ -10,7 +10,7 @@ const scorpion = {
 
 const kitana = {
     name: 'KITANA',
-    hp: 80,
+    hp: 90,
     img: 'http://reactmarathon-api.herokuapp.com/assets/kitana.gif',
     weapon: ['Katana', 'Halberd'],
     attack: function () {
